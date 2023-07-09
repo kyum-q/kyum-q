@@ -27,4 +27,4 @@
 
 <h3 align="center">🌈 Follow Me 🌈</h3>
 <p align="center">
-  <a href="https://velog.io/@hyeinisfree"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://kyumq.tistory.com/"/></a>&nbsp
+  <a href="https://kyumq.tistory.com/"><img src="https://img.shields.io/badge/Tistory-11B48A?style=flat-square&logo=Vimeo&logoColor=white&link=https://kyumq.tistory.com/"/></a>&nbsp
