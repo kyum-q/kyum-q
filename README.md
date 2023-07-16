@@ -1,4 +1,7 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=4BD0AB&height=250&section=header&text=Kim%20Kyungmi&fontSize=80&animation=fadeIn&fontAlignY=32&desc=계속해서%20도전하는%20개발자&descAlignY=55&descAlign=66)
+-->
+![header](https://capsule-render.vercel.app/api?type=waving&color=4BD0AB&height=150&section=header&text=Kim%20Kyungmi&fontSize=40&animation=fadeIn&fontAlignY=30&desc=&descAlignY=55&descAlign=66)
 
 <div align="center">
 
