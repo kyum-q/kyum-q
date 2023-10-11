@@ -85,3 +85,5 @@
 </p>
 <br>
 <br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkyum-q&count_bg=%23ECBEFF&title_bg=%23B8B8B8&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
