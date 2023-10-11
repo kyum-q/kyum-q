@@ -1,24 +1,47 @@
-<!--
-![header](https://capsule-render.vercel.app/api?type=waving&color=4BD0AB&height=250&section=header&text=Kim%20Kyungmi&fontSize=80&animation=fadeIn&fontAlignY=32&desc=계속해서%20도전하는%20개발자&descAlignY=55&descAlign=66)
--->
-![header](https://capsule-render.vercel.app/api?type=waving&color=4BD0AB&height=150&section=header&text=Kim%20Kyungmi&fontSize=40&animation=fadeIn&fontAlignY=30&desc=&descAlignY=55&descAlign=66)
 
-<div align="center">
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=4BD0AB&height=150&section=header&text=Kim%20Kyungmi&fontSize=40&animation=fadeIn&fontAlignY=30&desc=&descAlignY=55&descAlign=66) -->
+## Hi, I’m KyungMi 
+<br/>
+<br/>
+
+# 🐾 *Stats*
+<!-- div align="center" -->
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudal9978)](https://solved.ac/rudal9978/)
 
 </div>
 
-<div align="center">
+<!-- div align="center" -->
 
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kyum-q\&show_icons=true\&theme=default&title_color=4BD0AB&icon_color=52B19A#gh-light-mode-only)](https://github.com/kyum-q)
 
 </div>
 <br>
 
-<h3 align="center"> 🎮 Teck Stats 🎮 </h3>
-<div align="center">
-  
+# 🎮 *Teck Skills*
+
+#### Used as Main
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=javaScript&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp 
+</p>
+
+#### Used at least Once
+<p>
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=Swift&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"></a>&nbsp
+  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>&nbsp
+   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=white"/></a>&nbsp
+</p>
+
+<!--
 #### platforms & Languages
 <p>
   <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
@@ -53,11 +76,12 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp 
 </p>
+-->
 <br>
-</div>
 
-<h3 align="center"> 🐰 Follow Me 🐰 </h3>
-<p align="center">
-  <a href="https://kyumq.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white&link=https://kyumq.tistory.com/"/></a>&nbsp
+# 🐰 *Follow Me*
+<p>
+  <a href="https://kyumq.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://kyumq.tistory.com/"/></a>&nbsp
 </p>
+<br>
 <br>
