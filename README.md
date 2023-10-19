@@ -7,9 +7,9 @@
 # 🐾 *My GitHub & Baekjoon*
 <!-- div align="center" -->
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudal9978)](https://solved.ac/rudal9978/)ㅤㅤ
-
 [![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kyum-q\&show_icons=true\&theme=default&title_color=4BD0AB&icon_color=52B19A#gh-light-mode-only)](https://github.com/kyum-q)
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rudal9978)](https://solved.ac/rudal9978/)ㅤㅤ
 
 </div>
 <br/>
