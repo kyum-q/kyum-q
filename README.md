@@ -29,12 +29,11 @@
    이들은 서버를 경유하여 인터넷으로 연결되고 텍스트 메시지, 이미지, 음성 파일 등을 전송한다. <br>
    또한 WebRTC 기술을 이용하여 영상통화를 제공한다. 
  
- #### 역할 
+ #### 담당 기술
   • WebRTC를 이용한 화상 통신 기능 구현<br>
   • STT 기술을 이용한 음성인식을 통한 시스템 제어 기능 구현<br>
   • 갤럭시 워치 앱과 스마트 미러 연동으로 심박수 확인 및 메시지 다운로드 기능 구현<br>
 
- #### 담당 기술 스택
 <span>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -56,11 +55,10 @@
    OnePIC은 이미지, 오디오, 텍스트 등 멀티 컨텐츠를 담을 수 있는 새로운 형태의 All-in JPEG과 
    다초점 촬영 및 사후 초점 처리 기능 그리고 베스트 사진 추천, 얼굴 블렌딩, 매직픽처 등 활용 기능을 탑재한 카메라 솔루션이다.
  
- #### 역할 
+ #### 담당 기술
   • Camera2 API를 이용한 객체별 & 거리별 다초점 촬영 기능 구현 <br>
   • MLKit 라이브러리를 이용한 다양한 활용 기술(베스트 사진 추천, 얼굴 블렌딩, 매직픽처) 구현 <br>
 
- #### 담당 기술 스택
 <span>
   <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> 
   <img src="https://img.shields.io/badge/opencv-6EC93F?style=for-the-badge&logo=opencv&logoColor=white"/> 
