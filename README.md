@@ -43,7 +43,7 @@
 # 💼 Team Projects
 
 <details>
-  <summary>Electron을 이용한 새로운 IoT 가전 장치, <a href="https://github.com/HINAPIA/CoMirror">CoMirror (Communication Mirror)</a>
+  <summary><strong>Electron을 이용한 새로운 IoT 가전 장치, <a href="https://github.com/HINAPIA/CoMirror">CoMirror (Communication Mirror)</a></strong>
   </summary>
 <img src="https://github.com/kyum-q/kyum-q/assets/109158497/92007382-3389-417c-b4dc-d41e8f80d5a7" alt="CoMirror"/><br>
 
@@ -72,7 +72,7 @@
 
 <br>
 <details>
-  <summary>JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, <a href="https://github.com/HINAPIA/OnePic-All-in-JPEG">One Pic All-in JPEG</a>
+  <summary><strong>JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, <a href="https://github.com/HINAPIA/OnePic-All-in-JPEG">One Pic All-in JPEG</a></strong>
   </summary>
 <img src="https://github.com/kyum-q/kyum-q/assets/109158497/b231f060-3084-4ae3-a151-f02746bd4720" alt="OnePIC All-in JPEG"/><br >
 
