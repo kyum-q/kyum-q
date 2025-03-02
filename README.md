@@ -15,90 +15,16 @@
 <br>
 <br>
 
-# 🎮 *Teck Skills*
-
-#### Main Skills
-<p>
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>&nbsp 
-</p>
-
-#### Used at least Once Skills
-<p>
-  <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"/></a>&nbsp
-    <img src="https://img.shields.io/badge/JavaScript-ffb13b?style=for-the-badge&logo=javaScript&logoColor=white"/></a>&nbsp 
-</p>
-<br>
-<br>
-
-# 💼 Team Projects
-
-<details>
-  <summary><strong>Electron을 이용한 새로운 IoT 가전 장치, <a href="https://github.com/HINAPIA/CoMirror">CoMirror (Communication Mirror)</a></strong>
-  </summary>
-<img src="https://github.com/kyum-q/kyum-q/assets/109158497/92007382-3389-417c-b4dc-d41e8f80d5a7" alt="CoMirror"/><br>
-
- <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
-
- #### 개요  
-   CoMirror는 거울에 Raspberry PI를 부착한 IoT 가전장치로서 패밀리 허브로 사용되거나 여러 패밀리를 네트워크로 연결하는 장치이다. <br>
-   이들은 서버를 경유하여 인터넷으로 연결되고 텍스트 메시지, 이미지, 음성 파일 등을 전송한다. <br>
-   또한 WebRTC 기술을 이용하여 영상통화를 제공한다. 
- 
- #### 담당 기술
-  • WebRTC를 이용한 화상 통신 기능 구현<br>
-  • MySQL 환경 설정 및 구현<br>
-  • 음성 인식으로 시스템 제어 기능 구현<br>
-  • 갤럭시 워치 앱과 스마트 미러 연동으로 심박수 확인 및 메시지 다운로드 기능 구현<br>
-
-<span>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=Electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/webRTC-333333?style=for-the-badge&logo=webRTC&logoColor=white"/> 
-</span>
-</details>
-
-<br>
-<details>
-  <summary><strong>JPEG 확장을 통한 다초점 멀티 콘텐츠 카메라 솔루션, <a href="https://github.com/HINAPIA/OnePic-All-in-JPEG">One Pic All-in JPEG</a></strong>
-  </summary>
-<img src="https://github.com/kyum-q/kyum-q/assets/109158497/b231f060-3084-4ae3-a151-f02746bd4720" alt="OnePIC All-in JPEG"/><br >
-
- <div align="right">Team. <a href="https://github.com/HINAPIA">황금비</a><br></div>
- 
- #### 개요    
-   OnePIC은 이미지, 오디오, 텍스트 등 멀티 컨텐츠를 담을 수 있는 새로운 형태의 All-in JPEG과 
-   다초점 촬영 및 사후 초점 처리 기능 그리고 베스트 사진 추천, 얼굴 블렌딩, 매직픽처 등 활용 기능을 탑재한 카메라 솔루션이다.
- 
- #### 담당 기술
-  • Camera2 API를 이용한 객체별 & 거리별 다초점 촬영 기능 구현 <br>
-  • MLKit 라이브러리를 이용한 다양한 활용 기술(베스트 사진 추천, 얼굴 블렌딩, 매직픽처) 구현 <br>
-
-<span>
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=Android Studio&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/camera2-000000?style=for-the-badge&logo=camera2&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/tensorflow lite-FFAA5B?style=for-the-badge&logo=tensorflow&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/MLKit-007ACC?style=for-the-badge&logo=mlkit&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/opencv-6EC93F?style=for-the-badge&logo=opencv&logoColor=white"/> 
-</span>
-</details>
-<br>
-
 # 🏆 *Awards*
 
-- [2022. 09. 23] 제 18회 한성공학경진대회 금상
-- [2022. 12. 15] 제 20회 임베디드 경진대회 자유공모 부문 기업후원 우수상(MDS인텔리전스 대표상)
-- [2022. 12. 15] 제 20회 임베디드 경진대회 우수 연구노트 부문 특별상(성균관대학교 총장상)
-- [2023. 02. 20] 제 7회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상
-- [2023. 06. 02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상
-- [2023. 08. 11] 제 8회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상
-- [2023. 09. 26] 제 19회 한성공학경진대회 은상
 - [2023. 12. 01] 제 17회 공개SW 개발자대회 은상(한국정보과학회 회장상)
+- [2023. 09. 26] 제 19회 한성공학경진대회 은상
+- [2023. 08. 11] 제 8회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상
+- [2023. 06. 02] 한성대학교 컴퓨터공학부 캡스톤디자인 작품 발표회 최우수상
+- [2023. 02. 20] 제 7회 한성대학교 창의융합성과 경진대회(C&C Festival) 대상
+- [2022. 12. 15] 제 20회 임베디드 경진대회 우수 연구노트 부문 특별상(성균관대학교 총장상)
+- [2022. 12. 15] 제 20회 임베디드 경진대회 자유공모 부문 기업후원 우수상(MDS인텔리전스 대표상)
+- [2022. 09. 23] 제 18회 한성공학경진대회 금상
 <br>
 <br>
 
